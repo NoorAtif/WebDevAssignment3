@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+  }
+  
+  .paragraph {
+    font-family: Raleway, sans-serif;
+    padding-top: 25vh;
+    padding-right: 10vh;
+    padding-left: 10vh;
+    font-weight: 600;
+    font-size: 2.5rem;
+    color: #42a5f5;
+  }
+  .layout {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .layout-1 {
+    margin: 0rem;
+  
+    background-color: #292a2d;
+  
+    width: 600px;
+  }
+  
+  .head-1 {
+    font-family: Raleway, sans-serif;
+    font-family: Raleway, sans-serif;
+    padding-top: 5vh;
+    padding-right: 10vh;
+    padding-left: 10vh;
+    font-weight: 300;
+    font-size: 3 rem;
+    color: black;
+  }
+  .layout2 {
+    margin: 0rem;
+    font-weight: 400;
+    font-size: 2rem;
+  }
+  .head-2 {
+    display: flex;
+    font-family: Raleway, sans-serif;
+    margin-top: -35vh;
+    padding-right: 5vh;
+    padding-left: 10vh;
+    font-weight: 400;
+    font-size: 2.5rem;
+    color: black;
+  }
+  
+  .image,.aks{
+    display: flex;
+    align-items: flex-end;
+    background-repeat: no-repeat;
+    background-position: top;
+    padding-left: 45vh;
+    opacity: 35%;
+  }
+  
+  .btn {
+    padding-left: 10vh;
+    margin-top: 0vh;
+  }
+
+
+  
+  button {
+    cursor: pointer;
+    font-family: Raleway, sans-serif;
+    border-radius: 6px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 300px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    background-color: #42a5f5;
+    border: none;
+    outline: none;
+    color: black;
+    appearance: auto;
+    display: inline-block;
+  }
+
+  .para3 {
+    font-family: Raleway, sans-serif;
+    padding-top: 15vh;
+    padding-left: 10vh;
+    font-size: 15px;
+    font-weight: 900;
+  }
+  .img {
+    display: flex;
+    align-items: flex-end;
+  }
+  .music {
+    font-family: Raleway, sans-serif;
+    padding-left: 10vh;
+  }
+  
+  .git {
+    display: flex;
+    padding-left: 65vh;
+    height: 40px;
+  }
+  .aks {
+    padding-left: 25vh;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+  }
